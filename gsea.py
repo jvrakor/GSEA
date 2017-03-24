@@ -1,5 +1,5 @@
 #this is a Python GSEA implementation. Imput files are leukemia.txt and pathways.txt. The implementation follows the original article available at
-#(http://www.pnas.org/content/102/43/15545.abstract). p is set to p=1 and thus ommited. There are no outputs yet.
+#http://www.pnas.org/content/102/43/15545.abstract. p is set to p=1 and thus omitted. There are no outputs yet.
 
 import numpy as np
 
